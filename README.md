@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cornelia2marlow104
+- 👀 I’m interested in web applications. I’m currently learning Angular.
+- 🌱 Striving to create enriching, user-focused web applications.
